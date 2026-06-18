@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Aditya Sharma 👋
 
-<!--
-**ADY785690/ADY785690** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (Data Science)
 
-Here are some ideas to get you started:
+## 💻 Skills
+- Python
+- SQL
+- Machine Learning
+- Data Analytics
+- Pandas
+- NumPy
+- Streamlit
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+- AI Powered CRM Automation
+- Credit Risk Analyzer
+- Stock Market Intelligence Dashboard
+- Placement Probability Predictor
+- Business Analytics Dashboard
+
+## 📈 Currently Learning
+- DSA
+- Advanced SQL
+- Data Analytics
+- Machine Learning
+- GATE CSE Preparation
+
+## 🎯 Career Interests
+- Data Analyst
+- Business Analyst
+- FinTech Analyst
+- AI & Machine Learning
+
+## 📫 Connect With Me
+- LinkedIn: linkedin.com/in/adi785690
+- Kaggle: kaggle.com/ady785690
+- GitHub: github.com/ady785690
