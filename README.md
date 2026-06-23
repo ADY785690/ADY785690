@@ -1,106 +1,201 @@
-<h1 align="center">Hi 👋, I'm Aditya Sharma</h1>
-<h3 align="center">B.Tech CSE (Data Science) | AI • ML • Python • SQL • Data Analytics</h3>
+<!-- ========================= PROFESSIONAL README BANNER ========================= -->
 
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=ady785690&label=Profile%20Views&color=0e75b6&style=flat" alt="ady785690" />
-</p>
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4F46E5,50:7C3AED,100:A855F7&text=ADITYA%20SHARMA&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Software+Engineer;AI%2FML+Engineer;Data+Science+Student;Full+Stack+Developer;Building+Real-World+Products"/>
+
+<br>
+
+<a href="https://www.linkedin.com/in/adi785690">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/ady785690">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.kaggle.com/ady785690">
+<img src="https://img.shields.io/badge/Kaggle-Portfolio-20BEFF?style=for-the-badge&logo=kaggle"/>
+</a>
+
+<a href="YOUR_RESUME_LINK">
+<img src="https://img.shields.io/badge/Resume-View-7C3AED?style=for-the-badge&logo=readthedocs"/>
+</a>
+
+<br><br>
+
+![](https://komarev.com/ghpvc/?username=ady785690&style=for-the-badge&color=7C3AED)
+
+</div>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 - 🎓 B.Tech CSE (Data Science)
 - 💻 Python | SQL | Machine Learning | Data Analytics
-- 📊 Interested in AI, FinTech & Data Science
+- 📈 Interested in AI, FinTech & Data Science
 - 🌱 Currently Learning DSA, Machine Learning & System Design
 - 🚀 Building Real-World AI & Finance Projects
 - 🎯 Target Roles: Data Analyst | Business Analyst | FinTech Analyst
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
+
 <a href="https://www.linkedin.com/in/adi785690">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://github.com/ady785690">
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
 <a href="https://www.kaggle.com/ady785690">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" width="40" height="40"/>
-</a>
-</p>
-
----
-
-## 🛠️ Languages & Tools
-
-<p align="left">
-
-<a href="https://www.python.org">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://pandas.pydata.org/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://numpy.org/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://scikit-learn.org/">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/>
-</a>
-
-<a href="https://git-scm.com/">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-</a>
-
-<a href="https://github.com">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.mysql.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.postgresql.org">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<a href="https://jupyter.org/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="40" height="40"/>
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-## 📈 GitHub Stats
+# 🛠 Languages & Tools
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ady785690&show_icons=true&theme=tokyonight" />
-</p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ady785690&layout=compact&theme=tokyonight" />
-</p>
+<img src="https://skillicons.dev/icons?i=python"/>
+<img src="https://skillicons.dev/icons?i=pandas"/>
+<img src="https://skillicons.dev/icons?i=numpy"/>
+<img src="https://skillicons.dev/icons?i=scikitlearn"/>
+<img src="https://skillicons.dev/icons?i=git"/>
+<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://skillicons.dev/icons?i=mysql"/>
+<img src="https://skillicons.dev/icons?i=postgres"/>
+<img src="https://skillicons.dev/icons?i=vscode"/>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ady785690&theme=tokyonight" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+# 📊 GitHub Stats
 
-- 📊 Stock Market Intelligence Dashboard
-- 💳 Credit Risk Analyzer
-- 🎯 Placement Probability Predictor
-- 🤖 AI Powered CRM Automation
-- 📉 Customer Churn Prediction
-- 📚 LeetCode Preparation Series
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ady785690&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ady785690&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
-⭐ Always learning, building and improving.
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ady785690&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ady785690&theme=algolia&no-frame=true&row=1&column=7"/>
+
+</p>
+
+---
+
+# 📈 Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ady785690&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 🧠 LeetCode Stats
+
+<p align="center">
+
+<img src="https://leetcard.jacoblin.cool/your_leetcode_username?theme=dark&font=Poppins&ext=contest"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 📊 Stock Market Intelligence Dashboard
+Advanced stock analytics dashboard with market trends, technical indicators and portfolio insights.
+
+## 💳 Credit Risk Analyzer
+Machine Learning based credit risk assessment platform for lending decisions.
+
+## 🎯 Placement Probability Predictor
+Predicts placement chances and salary ranges using ML models.
+
+## 🤖 AI Powered CRM Automation
+Automates lead scoring, customer tracking and CRM workflows.
+
+## 📉 Customer Churn Prediction
+Identifies high-risk customers and improves retention strategies.
+
+## 📚 LeetCode Preparation Series
+Structured DSA repository with daily coding challenges and solutions.
+
+---
+
+# 📌 Pinned Repositories
+
+<a href="https://github.com/ady785690">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ady785690&repo=AI-Portfolio-Tracker&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/ady785690">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ady785690&repo=AI-Powered-CRM-Automation-System&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/ady785690">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ady785690&repo=Customer-Churn-Prediction&theme=tokyonight" />
+</a>
+
+---
+
+# 🎯 Current Focus
+
+```yaml
+learning:
+  - Data Structures & Algorithms
+  - System Design
+  - Machine Learning
+  - SQL Optimization
+
+building:
+  - AI Products
+  - Finance Dashboards
+  - Open Source Projects
+
+goal:
+  - Software Engineer
+  - Data Analyst
+  - AI Engineer
