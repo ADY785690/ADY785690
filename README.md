@@ -68,6 +68,9 @@
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=python"/>
+<img src="https://skillicons.dev/icons?i=pandas"/>
+<img src="https://skillicons.dev/icons?i=numpy"/>
+<img src="https://skillicons.dev/icons?i=scikitlearn"/>
 <img src="https://skillicons.dev/icons?i=git"/>
 <img src="https://skillicons.dev/icons?i=github"/>
 <img src="https://skillicons.dev/icons?i=mysql"/>
@@ -100,6 +103,16 @@
 
 ---
 
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ady785690&theme=algolia&no-frame=true&row=1&column=7"/>
+
+</p>
+
+---
+
 # 📈 Activity Graph
 
 <p align="center">
@@ -124,7 +137,7 @@
 
 <p align="center">
 
-<img src="https://leetcard.jacoblin.cool/Ady785690?theme=dark&font=Poppins&ext=contest"/>
+<img src="https://leetcard.jacoblin.cool/your_leetcode_username?theme=dark&font=Poppins&ext=contest"/>
 
 </p>
 
@@ -149,6 +162,22 @@ Identifies high-risk customers and improves retention strategies.
 
 ## 📚 LeetCode Preparation Series
 Structured DSA repository with daily coding challenges and solutions.
+
+---
+
+# 📌 Pinned Repositories
+
+<a href="https://github.com/ady785690">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ady785690&repo=AI-Portfolio-Tracker&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/ady785690">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ady785690&repo=AI-Powered-CRM-Automation-System&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/ady785690">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ady785690&repo=Customer-Churn-Prediction&theme=tokyonight" />
+</a>
 
 ---
 
