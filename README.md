@@ -154,7 +154,7 @@ Structured DSA repository with daily coding challenges and solutions.
 
 # 🎯 Current Focus
 
-```yaml
+
 learning:
   - Data Structures & Algorithms
   - System Design
